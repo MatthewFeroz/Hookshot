@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0-rc.2](https://github.com/NotRexed/Hookshot/compare/v2.1.0-rc.1...v2.1.0-rc.2) (2026-11-11)
+
+
+### Bug Fixes
+
+* **vk:** handle RDNA 1 wave32 and wave64 shader stages ([#1657](https://github.com/NotRexed/Hookshot/issues/1657)) ([fc8c858](https://github.com/NotRexed/Hookshot/commit/fc8c8586337c680d48917cbe3bd5ddbdef76f8a4))
+
 ## [2.1.0-rc.1](https://github.com/NotRexed/Hookshot/compare/v2.0.14...v2.1.0-rc.1) (2026-11-11)
 
 
